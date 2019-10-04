@@ -12,7 +12,7 @@ namespace Matematica
             Console.WriteLine("inserisci il secondo numero");
             int n2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Che operazione vuoi fare? (A/S/D/P/Max)");
+            Console.WriteLine("Che operazione vuoi fare?? (A/S/D/P/Max)");
             string risposta = Console.ReadLine();
             double risultato;
             try
